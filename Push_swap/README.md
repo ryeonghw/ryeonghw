@@ -10,7 +10,7 @@ Used for visualizing the sorting:
 
 https://push-swap-visualizer.vercel.app/
 
-## Available Operations
+### Available Operations
 `sa` (swap a): Swap the first 2 elements at the top of stack a.
 Do nothing if there is only one element or none.
 
@@ -47,7 +47,6 @@ The last element becomes the first one.
 
 `rrr` : rra and rrb at the same time.
 
----
 ### Explanation and Justification of Algorithms Used
 
 I used multiple algorithms depending on the number list size.
